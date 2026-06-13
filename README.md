@@ -10,4 +10,5 @@ pip install requests
 pip install colorama
 
 Run
-Python DDOSX.py
+
+Python ddosx.py
